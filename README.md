@@ -14,7 +14,7 @@ The project contains three files which have the following functions:
 * [index.js](./index.js) - Handles the interactivity of the website.
 
 ## How to run it
-Simply click [this external link](jxkimathi.github.io/weather_app/).
+Simply click [this external link](https://jxkimathi.github.io/weather_app/).
 
 ## Conclusion
 Thank you for visiting the repository, more help and even collaborations are welcome.
