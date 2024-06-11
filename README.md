@@ -3,9 +3,9 @@
 Hello there 👋🏾 
 Welcome to this repository made for my Portfolio Project during my Foundation course of Software Engineering at ALX Africa.
 The authors for this projects are:
-- Jude Kimathi - [Github](https://github.com/jxkimathi)
-- Mark Andrew  - [Github](https://github.com/Mark-andrew7)
-- Caleb Baraka - [Github](https://github.com/BarakaCaleb)
+- Jude Kimathi - [Github](https://github.com/jxkimathi) [LinkedIn](www.linkedin.com/in/jude-kimathi-5a5925241)
+- Mark Andrew  - [Github](https://github.com/Mark-andrew7) [LinkedIn](https://www.linkedin.com/in/markkamau397/)
+- Caleb Baraka - [Github](https://github.com/BarakaCaleb) [LinkedIn](https://www.linkedin.com/in/caleb-baraka-861532270/)
 
 ## Description
 This projects fetches data from the [openweather](https://openweathermap.org/api) api to showcase weather data on different cities.
