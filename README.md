@@ -3,9 +3,9 @@
 Hello there 👋🏾 
 Welcome to this repository made for my Portfolio Project during my Foundation course of Software Engineering at ALX Africa.
 The authors for this projects are:
-- Jude Kimathi -
-- Mark Andrew  -
-- Caleb Baraka -
+- Jude Kimathi - [Github](https://github.com/jxkimathi)
+- Mark Andrew  - [Github](https://github.com/Mark-andrew7)
+- Caleb Baraka - [Github](https://github.com/BarakaCaleb)
 
 ## Description
 This projects fetches data from the [openweather](https://openweathermap.org/api) api to showcase weather data on different cities.
@@ -16,8 +16,8 @@ It was made using HTML, CSS and JavaScript.
 
 ## Installation
 To clone or edit into this repository just fork it and clone it into your laptop usng the command:
-`git clone https://github.com/jxkimathi/weather_app.git`
-`cd weather_app`
+* `git clone https://github.com/jxkimathi/weather_app.git`
+* `cd weather_app`
 
 From there you can edit and contribute to the project.
 
